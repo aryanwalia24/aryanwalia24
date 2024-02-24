@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <img align="right" height="204" src="https://th.bing.com/th/id/OIP.y-4CvdgA-ANd7RYI0pzjeAHaHa?rs=1&pid=ImgDetMain"  />
 
 ###
