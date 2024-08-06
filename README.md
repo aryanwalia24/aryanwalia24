@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left" style="font-family:cursive;">✨ Creating bugs since 2022...!.<br><br>📚 Currently learning : <br>• Advanced DSA topics: Graph algorithms, Dynamic programming, and algorithmic design patterns.<br>• MERN Stack<br><br>🎯 Goals :<br>Architect & deploy a production-grade web-app showcasing mastery in web development by the 2nd Quarter of 2k24....!<br><br>🎲 Fun fact<br>Spent a day debugging, only to find a misplaced semicolon.</p>
+<p align="left" style="font-family:cursive;">✨ Solving bugs since 2022...!.<br><br>📚 Currently learning : <br>• Advanced DSA topics: Graph algorithms, Dynamic programming, and algorithmic design patterns.<br>• MERN Stack<br><br>🎯 Goals :<br>Architect & deploy a production-grade web-app showcasing mastery in web development by the 2nd Quarter of 2k24....!<br><br>🎲 Fun fact<br>Spent a day debugging, only to find a misplaced semicolon.</p>
 
 ###
 
