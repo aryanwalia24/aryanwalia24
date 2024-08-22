@@ -1,58 +1,96 @@
-<h2 align="left">Hey I'm Aryna Walia👋! What's Up ?</h2>
+<h2 align="left">Hey I'm Aryna Walia👋! What's Up?</h2>
 
-###
+## 🚀 About Me
 
-<h3 align="left">My Tech World 🧑‍💻</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
-###
+<br>
 
-<h3 align="left">About Me! 🚀</h3>
+<img align="right" height="204" src="https://th.bing.com/th/id/OIP.y-4CvdgA-ANd7RYI0pzjeAHaHa?rs=1&pid=ImgDetMain" />
 
-###
+- ✨ **Experience**: Tackling bugs since 2022
+- 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 
-<img align="right" height="204" src="https://th.bing.com/th/id/OIP.y-4CvdgA-ANd7RYI0pzjeAHaHa?rs=1&pid=ImgDetMain"  />
+### 🏆 Achievements
+- Ranked in Top 3% out of 2300+ students at University Coding Academy
+- 1600+ Rating on LeetCode with 370+ problems solved
 
-###
+### 🏅 Awards & Certifications
+- **Star Programmer** & **Dean’s List Member**
+- **Certifications**:
+  - Blockchain and its Applications - IIT Kharagpur NPTEL
+  - Blockchain Foundation and Scope Practices - INSEAD
+  - AI Foundations for Everyone - IBM
+  - Machine Learning Capstone - IBM
+  - Creative Design, Prototyping, and Testing - University of Maryland
 
-<p align="left" style="font-family:cursive;">✨ Solving bugs since 2022...!.<br><br>📚 Currently learning : <br>• Advanced DSA topics: Graph algorithms, Dynamic programming, and algorithmic design patterns.<br>• MERN Stack<br><br>🎯 Goals :<br>Architect & deploy a production-grade web-app showcasing mastery in web development by the 2nd Quarter of 2k24....!<br><br>🎲 Fun fact<br>Spent a day debugging, only to find a misplaced semicolon.</p>
+## 🎯 Goals
+- Create and showcase a diverse portfolio of projects
+- Strengthen my core knowledge and system design skills
+- Develop critical thinking abilities by the last quarter of 2024
 
-###
+## 📚 Currently Learning
+- Advanced DSA topics like Graph algorithms and algorithmic design patterns
+- Bit Manipulation and Dynamic Programming in DSA
+- Backend Development
+- The MERN Stack
+
+## 🚀 Currently Working On
+1. **Poker Implementation in C**: Utilizing advanced bitwise operations, analyzing memory usage, and managing static libraries
+2. **Web Project**: Developing a SplitWise expense tracker using pure web technologies (HTML, CSS, JavaScript)
+
+<br>🎲 **Fun fact**: Spent an entire day debugging only to discover a misplaced semicolon.
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanwalia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanwalia24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=aryanwalia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanwalia24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph" />
 </div>
 
-###
+<h2 align="center">🌍 Connect with Me</h2>
 
-<br clear="both">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://www.linkedin.com/in/aryan-walia24/" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" height="50" alt="Email logo" />
+  </a>
+   &nbsp;&nbsp;&nbsp; 
+  <a href="https://leetcode.com/u/aryanwalia/" target="_blank" title="LeetCode">
+    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png&color=000000" height="50" alt="LinkedIn logo" />
+  </a>
+   &nbsp;&nbsp;&nbsp; 
+  <a href="https://www.instagram.com/_aryan__walia_/" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" height="50" alt="Instagram logo" />
+  </a>
+   &nbsp;&nbsp;&nbsp;
+  <a href="mailto:aryanwalia2303@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/?size=100&id=P7UIlhbpWzZm&format=png&color=000000" height="50" alt="LeetCode logo" />
+  </a>
+</div>
 
-###
