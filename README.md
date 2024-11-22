@@ -11,13 +11,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo" />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
   <img width="12" />
@@ -26,8 +22,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
 <br>
@@ -38,8 +32,8 @@
 - 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 
 ### 🏆 Achievements
-- Ranked in Top 3% out of 2300+ students at University Coding Academy
-- 1600+ Rating on LeetCode with 370+ problems solved
+- Ranked in Top 1.7% out of 2300+ students at University Coding Academy Bacth 2022-26
+- 1600+ Rating on LeetCode with 500+ problems solved in both JAVA and CPP
 
 ### 🏅 Awards & Certifications
 - **Star Programmer** & **Dean’s List Member**
@@ -52,16 +46,23 @@
 
 ## 🎯 Goals
 - Create and showcase a diverse portfolio of projects
-- Strengthen my core knowledge and system design skills
-- Develop critical thinking abilities by the last quarter of 2024
+- Strengthen my Core knowledge of CS Fundamentals and System design
+- Focus on Critical thinking, Problem-solving and Logical/Mental Aptitude
 
 ## 📚 Currently Learning
-- Advanced DSA topics like Graph algorithms and algorithmic design patterns
-- Bit Manipulation and Dynamic Programming in DSA
+- SOLID Principles
+- Advanced DSA topics: Graph algorithms and algorithmic design patterns
+- Industrial Standard Coding Practises
+- Self-Balancing Trees in DSA
 - Backend Development
-- The MERN Stack
+- MERN Stack
 
 ## 🚀 Currently Working On
+1. **FlashMob : Ecommerce Application** : MERN Project, with optimisations on several fronts, and trying to create a version of Industrial codebase for an Ecommerce applications.
+2. **Data Structures** : Graphs, Self-Balancing Trees, POTDs and Contests.
+3. **Tech Stack** : JAVA and Multi-threading and concurrency
+
+### Completed
 1. **Poker Implementation in C**: Utilizing advanced bitwise operations, analyzing memory usage, and managing static libraries
 2. **Web Project**: Developing a SplitWise expense tracker using pure web technologies (HTML, CSS, JavaScript)
 
