@@ -28,12 +28,13 @@
 
 <img align="right" height="204" src="https://th.bing.com/th/id/OIP.y-4CvdgA-ANd7RYI0pzjeAHaHa?rs=1&pid=ImgDetMain" />
 
+- 👨‍💻 **SWE Intern at Nielsen'24**
 - ✨ **Experience**: Tackling bugs since 2022
 - 🎓 **Education**: Pursuing Bachelor of Engineering in Computer Science at Chitkara University Institute of Engineering & Technology
 
 ### 🏆 Achievements
 - Ranked in Top 1.7% out of 2300+ students at University Coding Academy Bacth 2022-26
-- 1600+ Rating on LeetCode with 500+ problems solved in both JAVA and CPP
+- 1600+ Rating on LeetCode with 600+ problems solved in both JAVA and CPP
 
 ### 🏅 Awards & Certifications
 - **Star Programmer** & **Dean’s List Member**
@@ -45,33 +46,35 @@
   - Creative Design, Prototyping, and Testing - University of Maryland
 
 ## 🎯 Goals
+- Expand my Tech Stack and gain Industrial Experience.
 - Create and showcase a diverse portfolio of projects
 - Strengthen my Core knowledge of CS Fundamentals and System design
 - Focus on Critical thinking, Problem-solving and Logical/Mental Aptitude
 
 ## 📚 Currently Learning
-- SOLID Principles
-- Advanced DSA topics: Graph algorithms and algorithmic design patterns
+- Advanced DSA topics: Dynamic Programming and Algorithmic design patterns
+- AWS cloud services, Springboot
 - Industrial Standard Coding Practises
-- Self-Balancing Trees in DSA
 - Backend Development
+- SOLID Principles
 - MERN Stack
 
 ## 🚀 Currently Working On
-1. **FlashMob : Ecommerce Application** : MERN Project, with optimisations on several fronts, and trying to create a version of Industrial codebase for an Ecommerce applications.
-2. **Data Structures** : Graphs, Self-Balancing Trees, POTDs and Contests.
-3. **Tech Stack** : JAVA and Multi-threading and concurrency
+1. **Data Structures** : DP ,Graph, Self-Balancing Trees, POTDs and Contests.
+2. **Tech Stack** : Springboot, AWS cloud services
+3. **Concepts** : JAVA and Multi-threading and Concurrency
 
 ### Completed
-1. **Poker Implementation in C**: Utilizing advanced bitwise operations, analyzing memory usage, and managing static libraries
-2. **Web Project**: Developing a SplitWise expense tracker using pure web technologies (HTML, CSS, JavaScript)
+1. **FlashMob : Ecommerce Application** : MERN Project, with optimisations on several fronts, and trying to create a version of Industrial codebase for an Ecommerce applications.
+2. **Poker Implementation in C**: Utilizing advanced bitwise operations, analyzing memory usage, and managing static libraries
+3. **Split-Wise : Web Project**: Developing a SplitWise expense tracker using pure web technologies (HTML, CSS, JavaScript)
 
 <br>🎲 **Fun fact**: Spent an entire day debugging only to discover a misplaced semicolon.
 
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=aryanwalia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+<!--   <img src="https://streak-stats.demolab.com?user=aryanwalia24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> -->
   <img src="https://github-readme-stats.vercel.app/api?username=aryanwalia24&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Github%20Statistics" height="150" alt="stats graph" />
 </div>
 
